@@ -1,3 +1,6 @@
 
-.ipynb_checkpoints/fashionMNIST_CNN-checkpoint.ipynb
+.ipynb_checkpoints/*
 data/*
+results.csv
+results.json
+runs/*
