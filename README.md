@@ -1,3 +1,1 @@
-# pytorchlearning
-
-Following Deeplizard's guide to building a CNN for the fashion-MNIST dataset
+A CNN for the fashion-MNIST dataset based on deeplizard's guide
